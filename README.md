@@ -10,10 +10,9 @@ Motor vehicle road accidents is a leading cause of death, and having enough data
   * The data consists of 37 attributes and 194,673 rows (or acidents) which after cleansing activities, was reduced to 182,660 rows.
   * This project was the Capstone Project for the IBM Data Science Professional Certification.
 Below are some sample images of the EDA performed and the outcome of the analysis:
-<img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/Collisions_by_hour_day.PNG" width="70%">
-<img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/Collisions_ROC.PNG" width="30%">
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/Collisions_by_hour_day.PNG" width="70%">
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/Collisions_ROC.PNG" width="30%">
 
-![](/images/Collisions_ROC.PNG)
 
 # [2. COVID 19 classifciation of Chest X-rays  - Transfer Learning Computer Vision models](https://colab.research.google.com/drive/1c44W0fMiaeEkBQt8RXbMFAD5BDwTeQi4?usp=sharing)
    * This project was part of the Deep Learning Topics Course of the MCC Program.
@@ -21,6 +20,6 @@ Below are some sample images of the EDA performed and the outcome of the analysi
    * We used a very small training set, becasue the pandemic had only been going on for few months. We were inspired by several papers and models, such as the [COVID-Net](https://www.technologyreview.es/s/12049/una-nueva-ia-podriadetectar-el-covid-19-en-una-radiografia-de-torax)
    * Due to GPU limitations, we opted not to use data augmentation techniques, and used transfer learning models instead, such as: VGG16, ResNet, MobileNet, GoogleLeNet, EfficientNet, amongh others, which are available in the Keras library.
    * For instance, the EfficientNet obtained an **accuracy of .92** 
-<img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/covid_test.PNG" width="40%">
-<img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/model.PNG" width="40%">
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/covid_test.PNG" width="40%">
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/model.PNG" width="40%">
 
