@@ -22,7 +22,7 @@ Below are some sample images of the EDA performed and the outcome of the analysi
 # [2. COVID 19 classifciation of Chest X-rays  - Transfer Learning Computer Vision models](https://colab.research.google.com/drive/1c44W0fMiaeEkBQt8RXbMFAD5BDwTeQi4?usp=sharing)
    * This project was part of the Deep Learning Topics Course of the MCC Program.
    * As part of this project we had to come up with a useful model to identify COVID 19 patients based on Chest X-rays.
-   * We used a very small training set, becasue the pandemic had only been going on for few months. We were inspired by several papers and models, such as the [COVID-Net](https://www.technologyreview.es/s/12049/una-nueva-ia-podriadetectar-el-covid-19-en-una-radiografia-de-torax)
+   * We used a very small training set, becasue the pandemic had only been going on for few months. We were inspired by several papers and models, such as the [COVID-Net](https://www.cdc.gov/coronavirus/2019-ncov/covid-data/covid-net/purpose-methods.html)
    * Due to GPU limitations, we opted not to use data augmentation techniques, and used transfer learning models instead, such as: VGG16, ResNet, MobileNet, GoogleLeNet, EfficientNet, amongh others, which are available in the Keras library.
    * For instance, the EfficientNet obtained an **accuracy of .92** 
 <div>
