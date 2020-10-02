@@ -51,3 +51,24 @@ The dataset consisted of several .csv sources, College Entry test results, Acade
 <img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/R_project_corrplot.PNG" width="50%">
  </div>
 </div>
+
+# [6. Skin Cancer identification - image metadata EDA](http://localhost:8888/notebooks/Desktop/ISIC-2019-EDA.ipynb)
+This is my part of my thesis. My project consists on building a model that can predict the presence of Melanoma skin cancer on early stages. The system will also perform a feature extraction, in order to provide relevant information to the medical team in order to understand the outcome of the model.
+<div>
+
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/Melanoma_age.PNG" width="45%">
+
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/Melanoma_location.PNG" width="45%">
+
+</div>
+
+# [5. Fuel consumption Regression Analysis](https://github.com/andresmichel92/MCC-python-DS/blob/master/Kaggle-CTR/Fuel%20Consumption%20-%20Regression.ipynb)
+ This project was simply about finding the best possible regression method for the Fuel consumption vs CO2 emision relationship among cars based on number of cylinders and engine size.
+<div>
+
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/Fuel_consumption_features.PNG" width="45%">
+
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/Fuel_consumption_Polynomial_regression.PNG" width="45%">
+
+</div>
+ 
