@@ -1,5 +1,5 @@
 <h1> Andres Michel  _   Data Science Portfolio <h1>
-<h6> Hi, this is a compilation of a few projects that I've worked on, mostly in the fields of Machine Learning, Deep Learning, computer vision, as well as data analysis. This series of projects were part of the MCC program I'm currently attending to, the IBM Data Science Professional Certification course or simple personal projects I've come up with</h6>
+<h6> Hi, this is a compilation of a few projects that I've worked on, mostly in the fields of Machine Learning, Deep Learning, computer vision, as well as data analysis. This series of projects were part of the MCC program I'm currently attending to, the IBM Data Science Professional Certification course or simple personal projects I've come up with <\h6>
 
  
 # [1. Seattle Car Collision predictive Analysis - Predictive analysis of severe car crashes](https://github.com/andresmichel92/Coursera_Capstone)
@@ -11,7 +11,7 @@ Below are some sample images of the EDA performed and the outcome of the analysi
 <img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/Collisions_by_hour_day.PNG" width="70%">
 <img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/Collisions_ROC.PNG" width="30%">
 
-![ROC_Curve](/images/Collisions_ROC.PNG)
+![](/images/Collisions_ROC.PNG)
 
 # [2. COVID 19 classifciation of Chest X-rays  - Transfer Learning Computer Vision models](https://colab.research.google.com/drive/1c44W0fMiaeEkBQt8RXbMFAD5BDwTeQi4?usp=sharing)
    * This project was part of the Deep Learning Topics Course of the MCC Program.
