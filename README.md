@@ -11,6 +11,7 @@ Below are some sample images of the EDA performed and the outcome of the analysi
 <img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/Collisions_by_hour_day.PNG" width="70%">
 <img src="https://github.com/andresmichel92/DS_Portfolio/blob/main/images/Collisions_ROC.PNG" width="30%">
 
+![ROC_Curve](/images/Collisions_ROC.PNG)
 
 # [2. COVID 19 classifciation of Chest X-rays  - Transfer Learning Computer Vision models](https://colab.research.google.com/drive/1c44W0fMiaeEkBQt8RXbMFAD5BDwTeQi4?usp=sharing)
    * This project was part of the Deep Learning Topics Course of the MCC Program.
