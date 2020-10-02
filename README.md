@@ -27,7 +27,7 @@ Below are some sample images of the EDA performed and the outcome of the analysi
    * For instance, the EfficientNet obtained an **accuracy of .92** 
 <div>
  <div>
-<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/covid_test.PNG" width="40%">
+<img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/covid_test.PNG" width="20%">
  </div>
  <div>
 <img src="https://raw.githubusercontent.com/andresmichel92/DS_Portfolio/main/images/model.PNG" width="50%">
