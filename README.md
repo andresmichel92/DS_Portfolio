@@ -1,4 +1,4 @@
-<h1> Andres Michel  _   Data Science Portfolio <h1>
+ # Andres Michel  _   Data Science Portfolio
  
  Hi, this is a compilation of a few projects that I've worked on, mostly in the fields of Machine Learning, Deep Learning, computer vision, as well as data analysis. This series
  of projects were part of the MCC program I'm currently attending to, the IBM Data Science Professional Certification course or simple personal projects I've come up with 
